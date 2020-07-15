@@ -6,7 +6,7 @@
 
 Hi I’m Jingyi Xie :wave:, a rising second-year ECE master student at Duke University.
 
-:point_right: As a software engineer, I interned at Siemens (Corporate Technology) and an air force startup. I have deep computer science understanding in `data structure & algorithm`, as well as experience in `web development (Django, React.js, Node.js)`, `C++ & Java OO design`, and `system programming (concurrency, synchronization, TCP socket)`.
+:point_right: As a software engineer, I interned at Siemens (Corporate Technology) and EzTrain LLC(a defense&space startup). I have deep computer science understanding in `data structure & algorithm`, as well as experience in `web development (Django, React.js, Node.js)`, `C++ & Java OO design`, and `system programming (concurrency, synchronization, TCP socket)`.
 
 I have good time management and communication skills and I am :satisfied: to work in a deeply collaborative environment.
 
