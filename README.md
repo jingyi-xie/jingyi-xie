@@ -1,16 +1,13 @@
-### Hi there 👋
+### Jingyi Xie 
+[![Linkedin Badge](https://img.shields.io/badge/-Jingyi_Xie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jingyi-xie-79141a185/)](https://www.linkedin.com/in/jingyi-xie-79141a185/)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+[Portfolio](https://jingyi-xie.github.io/)
 
-<!--
-**jingyi-xie/jingyi-xie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I’m Jingyi Xie :wave:, a rising second-year ECE master student at Duke University.
 
-Here are some ideas to get you started:
+:point_right: As a software engineer, I interned at Siemens (Corporate Technology) and an air force startup. I have deep computer science understanding in `data structure & algorithm`, as well as experience in `web development (Django, React.js, Node.js)`, `C++ & Java OO design`, and `system programming (concurrency, synchronization, TCP socket)`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have good time management and communication skills and I am :satisfied: to work in a deeply collaborative environment.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
