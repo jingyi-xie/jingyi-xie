@@ -1,6 +1,5 @@
 ### Jingyi Xie 
 [![Linkedin Badge](https://img.shields.io/badge/-Jingyi_Xie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jingyi-xie-79141a185/)](https://www.linkedin.com/in/jingyi-xie-79141a185/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 [Portfolio](https://jingyi-xie.github.io/)
 
