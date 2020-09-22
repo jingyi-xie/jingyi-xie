@@ -10,5 +10,3 @@ Hi I’m Jingyi Xie :wave:, a second-year ECE master student at Duke University.
 I'm experienced in Java, Python, Javascript, Swift, C/C++. I have a good understanding in data structure & algorithm, as well as experience in web development (Django, Javascript, HTML/CSS, React.js, Node.js), Mobile App Development(Swift, Xcode), C++ & Java OO design, and system programming (concurrency, synchronization, TCP socket).
 
 I have good time management and communication skills and I am :satisfied: to work in a deeply collaborative environment.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
