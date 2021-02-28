@@ -1,7 +1,6 @@
 ### About
-
 [Portfolio](https://jingyi-xie.com/)
-
+|
 [Linkedin](https://www.linkedin.com/in/jingyi-xie-duke)
 
 
