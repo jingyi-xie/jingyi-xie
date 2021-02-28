@@ -1,8 +1,9 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Jingyi_Xie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jingyi-xie-79141a185/)](https://www.linkedin.com/in/jingyi-xie-79141a185/)
+### About
 
 [Portfolio](https://jingyi-xie.com/)
 
-### About
+[Linkedin](https://www.linkedin.com/in/jingyi-xie-duke)
+
 
 Hi I’m Jingyi Xie :wave:, a second-year ECE master student at Duke University. I will graduate in May 2021 and I'm looking for a full-time software engineer position.
 
